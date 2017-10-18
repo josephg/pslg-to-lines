@@ -1,0 +1,19 @@
+{
+  "name": "pslg-to-paths",
+  "version": "1.0.0",
+  "description": "Planar straight lines to path list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephg/pslg-to-lines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephg/pslg-to-lines/issues"
+  },
+  "homepage": "https://github.com/josephg/pslg-to-lines#readme"
+}
